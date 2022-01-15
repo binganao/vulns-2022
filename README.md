@@ -1,13 +1,16 @@
-# 搜集2022年的漏洞
+# 搜集 2022 年的漏洞
+
+本项目用于搜集 2022 年的漏洞，**注意:** 本项目并不刻意搜集 POC 或 EXP，包含但不限于漏洞资讯、漏洞复现、漏洞分析
 
 ## 命令执行
+
+[SONICWALL SMA100 Apache httpd 未授权RCE (CVE-2021-20038)](https://attackerkb.com/topics/QyXRC1wbvC/cve-2021-20038/rapid7-analysis)
 
 [TerraMaster TOS session 伪造、任意⽂件读取、远程命令执⾏等多个漏洞](https://packetstormsecurity.com/files/165399/terramaster-exec.py.txt)
 
 [H2 数据库控制台未授权 RCE (CVE-2021-42392)](https://jfrog.com/blog/the-jndi-strikes-back-unauthenticated-rce-in-h2-database-console/?utm_campaign=Log4j&utm_content=004atglxq0kpxz6&utm_medium=social&utm_source=twitter)
 
 [Atlassian Jira Server and Data Center 授权RCE漏洞 (CVE-2021-43947)](https://mp.weixin.qq.com/s/XDX5eq3UE51_yLo0Q4wZ0g)
-
 
 ## 代码执行
 
