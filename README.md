@@ -6,6 +6,8 @@
 
 ## 命令执行
 
+[HongJingEHR多个漏洞(Axis Adminservice远程代码执行漏洞、HongJingEHR未授权反序列化漏洞)](https://www.seebug.org/vuldb/ssvid-99429)
+
 [NUUO NVRmini2 未授权RCE漏洞](https://www.seebug.org/vuldb/ssvid-99452)
 
 [Uniview 未授权RCE漏洞 (CVE-2021-45039)](https://www.seebug.org/vuldb/ssvid-99451)
