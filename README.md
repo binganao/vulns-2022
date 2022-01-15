@@ -6,6 +6,10 @@
 
 ## 命令执行
 
+[NUUO NVRmini2 未授权RCE漏洞](https://www.seebug.org/vuldb/ssvid-99452)
+
+[Uniview 未授权RCE漏洞 (CVE-2021-45039)](https://www.seebug.org/vuldb/ssvid-99451)
+
 [SONICWALL SMA100 Apache httpd 未授权RCE (CVE-2021-20038)](https://attackerkb.com/topics/QyXRC1wbvC/cve-2021-20038/rapid7-analysis)
 
 [TerraMaster TOS session 伪造、任意⽂件读取、远程命令执⾏等多个漏洞](https://packetstormsecurity.com/files/165399/terramaster-exec.py.txt)
