@@ -6,6 +6,8 @@
 
 [H2 数据库控制台未授权 RCE (CVE-2021-42392)](https://jfrog.com/blog/the-jndi-strikes-back-unauthenticated-rce-in-h2-database-console/?utm_campaign=Log4j&utm_content=004atglxq0kpxz6&utm_medium=social&utm_source=twitter)
 
+[Atlassian Jira Server and Data Center 授权RCE漏洞 (CVE-2021-43947)](https://mp.weixin.qq.com/s/XDX5eq3UE51_yLo0Q4wZ0g)
+
 
 ## 代码执行
 
