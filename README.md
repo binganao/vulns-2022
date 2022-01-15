@@ -2,6 +2,8 @@
 
 本项目用于搜集 2022 年的漏洞，**注意:** 本项目并不刻意搜集 POC 或 EXP，包含但不限于漏洞资讯、漏洞复现、漏洞分析
 
+目前纯手工搜集，后期可能会加入机器人，漏洞按照更新时间逆序排序
+
 ## 命令执行
 
 [SONICWALL SMA100 Apache httpd 未授权RCE (CVE-2021-20038)](https://attackerkb.com/topics/QyXRC1wbvC/cve-2021-20038/rapid7-analysis)
