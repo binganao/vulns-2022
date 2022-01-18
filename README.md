@@ -20,6 +20,10 @@
 
 [Atlassian Jira Server and Data Center 授权RCE漏洞 (CVE-2021-43947)](https://mp.weixin.qq.com/s/XDX5eq3UE51_yLo0Q4wZ0g)
 
+## 拒绝服务
+
+[A-potential-Denial-of-Service-issue-in-protobuf-java](https://github.com/Mario-Kart-Felix/A-potential-Denial-of-Service-issue-in-protobuf-java)
+
 ## 代码执行
 
 [GoAhead 远程代码执⾏漏洞 (CVE-2021-42342)](https://mp.weixin.qq.com/s/AS9DHeHtgqrgjTb2gzLJZg)
