@@ -32,6 +32,8 @@
 
 ## SQL注入
 
+[CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection](https://github.com/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection)
+
 [wordpress SQL注入漏洞 (CVE-2022–21661)](https://www.seebug.org/vuldb/ssvid-99431)
 
 ## 越权
