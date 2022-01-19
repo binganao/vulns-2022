@@ -39,3 +39,7 @@
 ## 越权
 
 [Gin-Vue-admin垂直越权漏洞与代码分析 (CVE-2022-21660)](https://github.com/UzJu/Gin-Vue-admin-poc-CVE-2022-21660)
+
+## 数据泄露
+
+[Import Export WordPress plugin(CVE-2022-0236)](https://github.com/qurbat/CVE-2022-0236)
