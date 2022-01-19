@@ -43,3 +43,7 @@
 ## 数据泄露
 
 [Import Export WordPress plugin(CVE-2022-0236)](https://github.com/qurbat/CVE-2022-0236)
+
+## 容器逃逸
+
+[Sample Ubuntu LPEs and container escapes coming soon(CVE-2022-0185)](https://github.com/Crusaders-of-Rust/CVE-2022-0185)
