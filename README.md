@@ -36,7 +36,7 @@
 
 [wordpress SQL注入漏洞 (CVE-2022–21661)](https://www.seebug.org/vuldb/ssvid-99431)
 
-## 越权
+## 越权漏洞
 
 [Gin-Vue-admin垂直越权漏洞与代码分析 (CVE-2022-21660)](https://github.com/UzJu/Gin-Vue-admin-poc-CVE-2022-21660)
 
