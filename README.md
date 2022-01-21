@@ -40,6 +40,8 @@
 
 ## 越权漏洞
 
+[Hospital's Patient Records Management System 1.0(CVE-2022-22296)](https://github.com/vlakhani28/CVE-2022-22296)
+
 [Gin-Vue-admin垂直越权漏洞与代码分析 (CVE-2022-21660)](https://github.com/UzJu/Gin-Vue-admin-poc-CVE-2022-21660)
 
 ## 信息泄露
