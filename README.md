@@ -40,10 +40,16 @@
 
 [Gin-Vue-admin垂直越权漏洞与代码分析 (CVE-2022-21660)](https://github.com/UzJu/Gin-Vue-admin-poc-CVE-2022-21660)
 
-## 数据泄露
+## 信息泄露
+
+[WebLogic 信息泄露漏洞(CVE-2022-21252)](https://www.oracle.com/security-alerts/cpujan2022.html#AppendixFMW)
 
 [Import Export WordPress plugin(CVE-2022-0236)](https://github.com/qurbat/CVE-2022-0236)
 
 ## 容器逃逸
 
 [Sample Ubuntu LPEs and container escapes coming soon(CVE-2022-0185)](https://github.com/Crusaders-of-Rust/CVE-2022-0185)
+
+## 外部实体
+
+[Andrid XML外部实体引用inskylot/jadx的不当限制(CVE-2022-0219)](https://github.com/Haxatron/CVE-2022-0219)
