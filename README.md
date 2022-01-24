@@ -60,4 +60,8 @@
 
 ## XSS
 
+[HPRMS - 'room_list' Stored XSS(CVE-2022-22852)](https://github.com/Sant268/CVE-2022-22852/blob/main/CVE-2022-22852.md)
+
+[HPRMS - 'doctors' Stored XSS(CVE-2022-22851)](https://github.com/Sant268/CVE-2022-22851/blob/main/CVE-2022-22851.md)
+
 [HPRMS - 'room_types' Stored XSS(CVE-2022-22850)](https://github.com/Sant268/CVE-2022-22850/blob/main/CVE-2022-22850.md)
