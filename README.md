@@ -57,3 +57,7 @@
 ## 外部实体
 
 [Andrid XML外部实体引用inskylot/jadx的不当限制(CVE-2022-0219)](https://github.com/Haxatron/CVE-2022-0219)
+
+## XSS
+
+[HPRMS - 'room_types' Stored XSS(CVE-2022-22850)](https://github.com/Sant268/CVE-2022-22850/blob/main/CVE-2022-22850.md)
