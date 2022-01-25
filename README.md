@@ -32,6 +32,8 @@
 
 ## SQL注入
 
+[PhpIPAM v1.4.4 授权 SQL 注入(CVE-2022-23046)](https://github.com/jcarabantes/CVE-2022-23046)
+
 [CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection POC](https://github.com/sagittarius-a/cve-2022-21658)
 
 [CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection](https://github.com/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection)
