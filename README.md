@@ -32,6 +32,8 @@
 
 ## SQL注入
 
+[Moodle 3.11-3.11.4 SQL注入 POC(CVE-2022-0332)](https://github.com/numanturle/CVE-2022-0332)
+
 [PhpIPAM v1.4.4 授权 SQL 注入(CVE-2022-23046)](https://github.com/jcarabantes/CVE-2022-23046)
 
 [CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection POC](https://github.com/sagittarius-a/cve-2022-21658)
@@ -67,3 +69,7 @@
 [HPRMS - 'doctors' Stored XSS(CVE-2022-22851)](https://github.com/Sant268/CVE-2022-22851/blob/main/CVE-2022-22851.md)
 
 [HPRMS - 'room_types' Stored XSS(CVE-2022-22850)](https://github.com/Sant268/CVE-2022-22850/blob/main/CVE-2022-22850.md)
+
+## 文件包含
+
+[Oracle WebLogic Server 12.1.3.0.0/12.2.1.3.0/12.2.1.4.0/14.1.1.0.0 本地文件包含(CVE-2022-21371)](https://github.com/Mr-xn/CVE-2022-21371)
