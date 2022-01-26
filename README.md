@@ -20,6 +20,10 @@
 
 [Atlassian Jira Server and Data Center 授权RCE漏洞 (CVE-2021-43947)](https://mp.weixin.qq.com/s/XDX5eq3UE51_yLo0Q4wZ0g)
 
+## 权限提升
+
+[polkit的pkexec 本地权限升级漏洞 EXP(CVE-2021-4034)](https://github.com/arthepsy/CVE-2021-4034)
+
 ## 拒绝服务
 
 [A-potential-Denial-of-Service-issue-in-protobuf-java](https://github.com/Mario-Kart-Felix/A-potential-Denial-of-Service-issue-in-protobuf-java)
