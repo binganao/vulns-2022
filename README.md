@@ -22,6 +22,8 @@
 
 ## 权限提升
 
+[win32k LPE bypass CVE-2022-21882](https://github.com/KaLendsi/CVE-2022-21882)
+
 [polkit的pkexec 本地权限升级漏洞 EXP(CVE-2021-4034)](https://github.com/arthepsy/CVE-2021-4034)
 
 ## 拒绝服务
@@ -47,6 +49,8 @@
 [wordpress SQL注入漏洞 (CVE-2022–21661)](https://www.seebug.org/vuldb/ssvid-99431)
 
 ## 越权漏洞
+
+[CVE-2022-22828 Synametrics - SynaMan version 4.9 存在越权漏洞](https://github.com/videnlabs/CVE-2022-22828)
 
 [Hospital's Patient Records Management System 1.0(CVE-2022-22296)](https://github.com/vlakhani28/CVE-2022-22296)
 
