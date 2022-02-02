@@ -6,6 +6,8 @@
 
 ## 命令执行
 
+[RCE via Email-Templates (Authenticated only) in SuiteCRM <= 8.0.1(CVE-2021-45897)](https://github.com/manuelz120/CVE-2021-45897)
+
 [CVE-2021-22204 Rxiftool RCE](https://github.com/0xBruno/CVE-2021-22204)
 
 [HongJingEHR多个漏洞(Axis Adminservice远程代码执行漏洞、HongJingEHR未授权反序列化漏洞)](https://www.seebug.org/vuldb/ssvid-99429)
@@ -25,6 +27,8 @@
 [CVE-2021-41773 Apache HTTP Server 2.4.49 RCE](https://github.com/m96dg/CVE-2021-41773-exercise)
 
 ## 权限提升
+
+[Linux PolKit (polkitd) 0.133 本地提权(CVE-2021-3560)](https://github.com/chenaotian/CVE-2021-3560)
 
 [Windows CVE-2021-1675 is a vulnerability in the Print Spooler Service of Microsoft Windows](https://github.com/AndrewTrube/CVE-2021-1675)
 
@@ -79,6 +83,12 @@
 [Andrid XML外部实体引用inskylot/jadx的不当限制(CVE-2022-0219)](https://github.com/Haxatron/CVE-2022-0219)
 
 ## XSS
+
+[Reflected Cross-site scripting (XSS) vulnerability in RosarioSIS 8.2.1(CVE-2021-45416)](https://github.com/86x/CVE-2021-45416)
+
+[D-Link Router DSL-2730E - Stored Cross Site Scripting (XSS)(CVE-2021-46108)](https://github.com/g-rubert/CVE-2021-46108)
+
+[Ivanti Service Manager 2021.1 infected with reflected XSS(CVE-2021-38560)](https://github.com/os909/iVANTI-CVE-2021-38560)
 
 [RosarioSIS 8.2.1 反射式跨站点脚本(CVE-2021-45416)](https://github.com/86x/CVE-2021-45416)
 
