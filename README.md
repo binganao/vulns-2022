@@ -6,6 +6,8 @@
 
 ## 命令执行
 
+[Cisco Anyconnect VPN unauth RCE(CVE-2022-20699)](https://github.com/Audiobahn/CVE-2022-20699)
+
 [RCE via Email-Templates (Authenticated only) in SuiteCRM <= 8.0.1(CVE-2021-45897)](https://github.com/manuelz120/CVE-2021-45897)
 
 [CVE-2021-22204 Rxiftool RCE](https://github.com/0xBruno/CVE-2021-22204)
@@ -30,7 +32,11 @@
 
 [Linux PolKit (polkitd) 0.133 本地提权(CVE-2021-3560)](https://github.com/chenaotian/CVE-2021-3560)
 
+[Windows Exploit for CVE-2022–22718 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE)](https://github.com/ly4k/SpoolFool)
+
 [Windows CVE-2021-1675 is a vulnerability in the Print Spooler Service of Microsoft Windows](https://github.com/AndrewTrube/CVE-2021-1675)
+
+[Windows POC CVE-2022-21882](https://github.com/sailay1996/cve-2022-21882-poc)
 
 [Windows win32k LPE bypass CVE-2022-21882](https://github.com/KaLendsi/CVE-2022-21882)
 
@@ -85,6 +91,8 @@
 [Andrid XML外部实体引用inskylot/jadx的不当限制(CVE-2022-0219)](https://github.com/Haxatron/CVE-2022-0219)
 
 ## XSS
+
+[Reflected XSS in TastyIgniter v3.2.2 Restaurtant CMS(CVE-2022-23378)](https://github.com/TheGetch/CVE-2022-23378)
 
 [Stored Cross Site Scripting Sourcecodester Online Car Rental System 1.0(CVE-2021-46005)](https://github.com/nawed20002/CVE-2021-46005)
 
