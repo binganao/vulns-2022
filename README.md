@@ -6,6 +6,8 @@
 
 ## 命令执行
 
+[Remote Code Execution in TP-Link Tapo c200 IP camera](https://github.com/hacefresko/CVE-2021-4045-PoC)
+
 [Cisco Anyconnect VPN unauth RCE(CVE-2022-20699)](https://github.com/Audiobahn/CVE-2022-20699)
 
 [RCE via Email-Templates (Authenticated only) in SuiteCRM <= 8.0.1(CVE-2021-45897)](https://github.com/manuelz120/CVE-2021-45897)
@@ -30,6 +32,10 @@
 
 ## 权限提升
 
+[Windows Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE)](https://github.com/ly4k/SpoolFool)
+
+[Linux polkit的pkexec 本地权限升级漏洞 EXP NO GCC(CVE-2021-4034)](https://github.com/EstamelGG/CVE-2021-4034-NoGCC)
+
 [Linux PolKit (polkitd) 0.133 本地提权(CVE-2021-3560)](https://github.com/chenaotian/CVE-2021-3560)
 
 [Windows Exploit for CVE-2022–22718 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE)](https://github.com/ly4k/SpoolFool)
@@ -47,6 +53,8 @@
 [A-potential-Denial-of-Service-issue-in-protobuf-java](https://github.com/Mario-Kart-Felix/A-potential-Denial-of-Service-issue-in-protobuf-java)
 
 ## 代码执行
+
+[Remote Code Execution on Confluence Servers(CVE-2021-26084)](https://github.com/0xf4n9x/CVE-2021-26084)
 
 [a-tag with the HTML injection vulnerability in CSV+ <=0.8.0(CVE-2022-21241)](https://github.com/satoki/csv-plus_vulnerability)
 
@@ -114,3 +122,6 @@
 
 [Oracle WebLogic Server 12.1.3.0.0/12.2.1.3.0/12.2.1.4.0/14.1.1.0.0 本地文件包含(CVE-2022-21371)](https://github.com/Mr-xn/CVE-2022-21371)
 
+## SSRF
+
+[Microsoft Exchange ProxyLogon PoC (CVE-2021-26855)](https://github.com/thau0x01/poc_proxylogon)
