@@ -6,6 +6,8 @@
 
 ## 命令执行
 
+[CVE-2022-24086 about Magento RCE](https://github.com/Mr-xn/CVE-2022-24086)
+
 [Apache APISIX 2.12.1、Apache APISIX 2.10.4 POC(CVE-2022-24112)](https://github.com/shakeman8/CVE-2022-24112)
 
 [向日葵远程控制软件 RCE](https://github.com/TRYblog/sunlogin_rce_)
@@ -69,6 +71,8 @@
 [GoAhead 远程代码执⾏漏洞 (CVE-2021-42342)](https://mp.weixin.qq.com/s/AS9DHeHtgqrgjTb2gzLJZg)
 
 ## SQL注入
+
+[Casdoor SQL Injection (CVE-2022-24124)](https://github.com/ColdFusionX/CVE-2022-24124)
 
 [Prestashop >= 1.7.5.0 < 1.7.8.2 - SQL injection(CVE-2021-43789)](https://github.com/numanturle/CVE-2021-43789)
 
