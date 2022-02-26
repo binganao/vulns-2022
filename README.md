@@ -82,6 +82,8 @@
 
 ## 越权漏洞
 
+[ZABBIX-监控系统 Unsafe Session Storage(CVE-2022-23131)](https://github.com/0tt7/CVE-2022-23131)
+
 [ZABBIX-监控系统-Saml-bypass-poc(CVE-2022-23131)](https://github.com/1mxml/CVE-2022-23131)
 
 [CVE-2022-22828 Synametrics - SynaMan version 4.9 存在越权漏洞](https://github.com/videnlabs/CVE-2022-22828)
