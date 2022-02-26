@@ -102,6 +102,8 @@
 
 ## 容器逃逸
 
+[Sample Ubuntu LPEs and container escapes CVE-2022-0185 分析](https://github.com/chenaotian/CVE-2022-0185)
+
 [Sample Ubuntu LPEs and container escapes coming soon(CVE-2022-0185)](https://github.com/Crusaders-of-Rust/CVE-2022-0185)
 
 ## 外部实体
