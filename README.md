@@ -6,6 +6,8 @@
 
 ## 命令执行
 
+[Apache APISIX 2.12.1、Apache APISIX 2.10.4 POC(CVE-2022-24112)](https://github.com/shakeman8/CVE-2022-24112)
+
 [向日葵远程控制软件 RCE](https://github.com/TRYblog/sunlogin_rce_)
 
 [Remote Code Execution in TP-Link Tapo c200 IP camera](https://github.com/hacefresko/CVE-2021-4045-PoC)
