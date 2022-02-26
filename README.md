@@ -138,6 +138,10 @@
 
 [HPRMS - 'room_types' Stored XSS(CVE-2022-22850)](https://github.com/Sant268/CVE-2022-22850/blob/main/CVE-2022-22850.md)
 
+## 文件上传
+
+[WordPress File Upload Vulnerability, Modern Events Calendar Lite WordPress plugin before 5.16.5(CVE-2021-24145)](https://github.com/dnr6419/CVE-2021-24145)
+
 ## 文件包含
 
 [Oracle WebLogic Server 12.1.3.0.0/12.2.1.3.0/12.2.1.4.0/14.1.1.0.0 本地文件包含(CVE-2022-21371)](https://github.com/Mr-xn/CVE-2022-21371)
