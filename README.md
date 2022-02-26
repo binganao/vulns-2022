@@ -145,3 +145,7 @@
 ## SSRF
 
 [Microsoft Exchange ProxyLogon PoC (CVE-2021-26855)](https://github.com/thau0x01/poc_proxylogon)
+
+## 其他
+
+[CVE-2021-45901 (ServiceNow - Username Enumeration)](https://github.com/9lyph/CVE-2021-45901)
