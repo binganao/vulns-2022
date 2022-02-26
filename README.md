@@ -80,6 +80,8 @@
 
 ## 越权漏洞
 
+[ZABBIX-监控系统-Saml-bypass-poc(CVE-2022-23131)](https://github.com/1mxml/CVE-2022-23131)
+
 [CVE-2022-22828 Synametrics - SynaMan version 4.9 存在越权漏洞](https://github.com/videnlabs/CVE-2022-22828)
 
 [Hospital's Patient Records Management System 1.0(CVE-2022-22296)](https://github.com/vlakhani28/CVE-2022-22296)
