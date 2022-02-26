@@ -6,6 +6,10 @@
 
 ## 命令执行
 
+[Gitlab Enterprise Edition (13.9.5) CVE-2021-22205](https://github.com/ahmad4fifz/CVE-2021-22205)
+
+[A Zero-Click RCE exploit for CVE-2021-0326 on the Peloton Bike](https://github.com/aemmitt-ns/skeleton)
+
 [CVE-2022-24086 about Magento RCE](https://github.com/Mr-xn/CVE-2022-24086)
 
 [Apache APISIX 2.12.1、Apache APISIX 2.10.4 POC(CVE-2022-24112)](https://github.com/shakeman8/CVE-2022-24112)
@@ -37,6 +41,8 @@
 [CVE-2021-41773 Apache HTTP Server 2.4.49 RCE](https://github.com/m96dg/CVE-2021-41773-exercise)
 
 ## 权限提升
+
+[CVE-2021-24084 Windows Local Privilege Escalation](https://github.com/exploitblizzard/WindowsMDM-LPE-0Day)
 
 [Windows Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE)](https://github.com/ly4k/SpoolFool)
 
