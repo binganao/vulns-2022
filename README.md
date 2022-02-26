@@ -116,6 +116,8 @@
 
 ## XSS
 
+[Stored XSS Vulnerability on RosarioSIS 8.2.1(CVE-2021-45416)](https://github.com/dnr6419/CVE-2021-45416)
+
 [SAS Logon 9.4 allows warning-message injection(CVE-2022-25257)](https://github.com/polling-repo-continua/CVE-2022-25257)
 
 [Reflected XSS in TastyIgniter v3.2.2 Restaurtant CMS(CVE-2022-23378)](https://github.com/TheGetch/CVE-2022-23378)
