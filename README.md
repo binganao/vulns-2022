@@ -56,6 +56,8 @@
 
 ## 代码执行
 
+[Hotel Druid v3.0.3 Code Injection vulnerability (CVE-2022-22909)](https://github.com/0z09e/CVE-2022-22909)
+
 [Remote Code Execution on Confluence Servers(CVE-2021-26084)](https://github.com/0xf4n9x/CVE-2021-26084)
 
 [a-tag with the HTML injection vulnerability in CSV+ <=0.8.0(CVE-2022-21241)](https://github.com/satoki/csv-plus_vulnerability)
