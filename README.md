@@ -102,6 +102,8 @@
 
 ## XSS
 
+[SAS Logon 9.4 allows warning-message injection(CVE-2022-25257)](https://github.com/polling-repo-continua/CVE-2022-25257)
+
 [Reflected XSS in TastyIgniter v3.2.2 Restaurtant CMS(CVE-2022-23378)](https://github.com/TheGetch/CVE-2022-23378)
 
 [Stored Cross Site Scripting Sourcecodester Online Car Rental System 1.0(CVE-2021-46005)](https://github.com/nawed20002/CVE-2021-46005)
