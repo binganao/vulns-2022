@@ -42,7 +42,9 @@
 
 ## 权限提升
 
-[CVE-2021-24084 Windows Local Privilege Escalation](https://github.com/exploitblizzard/WindowsMDM-LPE-0Day)
+[Linux CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit)
+
+[Windows CVE-2021-24084 Windows Local Privilege Escalation](https://github.com/exploitblizzard/WindowsMDM-LPE-0Day)
 
 [Windows Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE)](https://github.com/ly4k/SpoolFool)
 
