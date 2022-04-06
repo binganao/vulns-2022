@@ -148,6 +148,8 @@
 
 ## 文件上传
 
+[Spring4Shell-POC (CVE-2022-22965)](https://github.com/BobTheShoplifter/Spring4Shell-POC)
+
 [WordPress File Upload Vulnerability, Modern Events Calendar Lite WordPress plugin before 5.16.5(CVE-2021-24145)](https://github.com/dnr6419/CVE-2021-24145)
 
 ## 文件包含
