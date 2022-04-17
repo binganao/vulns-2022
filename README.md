@@ -160,6 +160,10 @@
 
 [Microsoft Exchange ProxyLogon PoC (CVE-2021-26855)](https://github.com/thau0x01/poc_proxylogon)
 
+## SSTI
+
+[VMware CVE-2022-22954 Workspace ONE Access Freemarker Server-side Template Injection](https://github.com/sherlocksecurity/VMware-CVE-2022-22954)
+
 ## 其他
 
 [CVE-2021-45901 (ServiceNow - Username Enumeration)](https://github.com/9lyph/CVE-2021-45901)
